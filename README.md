@@ -1,0 +1,1 @@
+# kta-manifest-helm
