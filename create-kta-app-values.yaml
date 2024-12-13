@@ -7,3 +7,4 @@ image:
 # Service
 service:
   type: LoadBalancer
+  port: 5000
