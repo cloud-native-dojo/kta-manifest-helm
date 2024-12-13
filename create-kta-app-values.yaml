@@ -3,7 +3,7 @@ replicaCount: 3
 # DockerImage
 image:
   repository: tasyuminahito/kta-chatapp-flask
-  tag: "8"
+  tag: "9"
 # Service
 service:
   type: LoadBalancer
