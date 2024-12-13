@@ -1,11 +1,9 @@
 # Pod
 replicaCount: 3
-
 # DockerImage
 image:
   repository: nginx
-  tag: ""
-
+  tag: "8"
 # Service
 service:
   type: LoadBalancer
