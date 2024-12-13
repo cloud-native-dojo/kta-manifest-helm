@@ -2,7 +2,7 @@
 replicaCount: 3
 # DockerImage
 image:
-  repository: nginx
+  repository: tasyuminahito/kta-chatapp-flask
   tag: "8"
 # Service
 service:
